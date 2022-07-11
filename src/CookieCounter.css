@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(73, 43, 22);
+}
+
+.Cookie-Counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2 rem;
+}
+
+.button {
+    background-color: rgb(73, 43, 22);
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
